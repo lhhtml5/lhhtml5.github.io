@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4315],{4321:e=>{e.exports=JSON.parse('{"label":"Life is meaningless without a purpose","permalink":"/blog/tags/life-is-meaningless-without-a-purpose","allTagsPath":"/blog/tags","count":2}')}}]);

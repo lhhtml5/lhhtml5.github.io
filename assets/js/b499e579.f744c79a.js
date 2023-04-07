@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7572],{8374:e=>{e.exports=JSON.parse('{"label":"AstroZero","permalink":"/blog/tags/astro-zero","allTagsPath":"/blog/tags","count":1}')}}]);

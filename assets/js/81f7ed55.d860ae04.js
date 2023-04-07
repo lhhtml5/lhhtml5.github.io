@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4565],{2098:e=>{e.exports=JSON.parse('{"label":"go over","permalink":"/blog/tags/go-over","allTagsPath":"/blog/tags","count":1}')}}]);
